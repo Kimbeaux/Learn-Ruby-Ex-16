@@ -1,0 +1,5 @@
+Extra Credit #4:
+Had to pass 'w' as a parameter to open file because open is read-only in the default mode.
+
+Extra Credit #5:
+'w", Write-only mode, truncates existing file to zero length or creates a new file for writing, so no, we did not need the target.truncate().
